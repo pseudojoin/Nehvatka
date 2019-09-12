@@ -1,0 +1,1 @@
+"C:\Program Files\PuTTY\pscp.exe" -P 22 -l csportal -pw Gjhnfkbot -r "C:\ivolobuev\WFM IMPORT DATA\out" csportal@srvap843.rccf.ru:/opt/csportal/html/magic/cache/nehvatka/
